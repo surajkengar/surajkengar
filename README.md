@@ -1,6 +1,6 @@
  <!-- Banner -->
 <p align="center">  
-  <img alt="Dev_with_suraj"  src="./Suraj.png">
+  <img alt="Dev_with_suraj"  src="./suraj.png">
   <br><br>
 <p/>
 
@@ -20,7 +20,7 @@
 
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hi there
 
--Full Stack Developer
+- Full Stack Developer
 
 - I am currently working on MERN stack 
 
