@@ -1,6 +1,6 @@
  <!-- Banner -->
 <p align="center">  
-  <img alt="Dev_with_suraj"  src="./assets/Suraj.png">
+  <img alt="Dev_with_suraj"  src="./Suraj.png">
   <br><br>
 <p/>
 
