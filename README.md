@@ -26,7 +26,7 @@
 
 - Thoughts about Engineering at <a href="" target="_blank"></a>
 
-- Currently learning <a href="https://react.dev/" target="_blank">React.Js</a>
+- Currently learning <a >Project Deployment</a>
 
 - Happy to connect Amazing folks and build Awesome network.
 
